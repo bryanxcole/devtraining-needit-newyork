@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="DELETE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>activity_due</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-21 22:47:57</sys_created_on>
+        <sys_id>7c01bb62db3140104d069fd2ca9619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>activity_due</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_policy_action_7c01bb62db3140104d069fd2ca9619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-21 22:47:57</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <ui_policy display_value="Make fields read only">a89ee7eedbfd00104d069fd2ca9619a7</ui_policy>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>15270516db3f1f403353f22ebf9619d6</instance_id>
+        <instance_name>dev69856</instance_name>
+        <name>sys_ui_policy_action_7c01bb62db3140104d069fd2ca9619ce</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action"><sys_ui_policy_action action="INSERT_OR_UPDATE"><cleared>false</cleared><disabled>ignore</disabled><field>activity_due</field><mandatory>ignore</mandatory><sys_class_name>sys_ui_policy_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-21 22:47:57</sys_created_on><sys_id>7c01bb62db3140104d069fd2ca9619ce</sys_id><sys_mod_count>0</sys_mod_count><sys_name>activity_due</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_policy_action_7c01bb62db3140104d069fd2ca9619ce</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-21 22:47:57</sys_updated_on><table>x_58872_needit_needit</table><ui_policy display_value="Make fields read only">a89ee7eedbfd00104d069fd2ca9619a7</ui_policy><visible>ignore</visible></sys_ui_policy_action></record_update>]]></payload>
+        <payload_hash>748824384</payload_hash>
+        <record_name>activity_due</record_name>
+        <reverted_from/>
+        <source>e2bbdbaadbbd00104d069fd2ca96199e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-21 22:47:57</sys_created_on>
+        <sys_id>d7613b62db3140104d069fd2ca9619b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16f2aa55bdc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-21 22:47:57</sys_updated_on>
+        <type>UI Policy Action</type>
+        <update_guid>13613b62ea3140109a7d288ff75f46b7</update_guid>
+        <update_guid_history>13613b62ea3140109a7d288ff75f46b7:748824384</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-21 22:57:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_policy_action">sys_ui_policy_action</sys_db_object>
+        <sys_id>3126a4a85de8481ca31e601e603f3710</sys_id>
+        <sys_metadata>7c01bb62db3140104d069fd2ca9619ce</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>activity_due</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_policy_action_7c01bb62db3140104d069fd2ca9619ce</sys_update_name>
+        <sys_update_version display_value="sys_ui_policy_action_7c01bb62db3140104d069fd2ca9619ce">d7613b62db3140104d069fd2ca9619b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-21 22:57:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
